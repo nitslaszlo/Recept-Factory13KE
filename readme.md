@@ -1,1 +1,1 @@
-GitHub gyakorlás projektmunkához
+GitHub gyakorlás projektmunkához.
